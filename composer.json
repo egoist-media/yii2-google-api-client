@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "egoist-media\\yii2\\google\\apiclient\\": ""
+      "egoistmedia\\yii2\\google\\apiclient\\": ""
     }
   }
 }
