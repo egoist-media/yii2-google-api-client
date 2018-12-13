@@ -1,6 +1,6 @@
 <?php
 
-namespace idk\yii2\google\apiclient\components;
+namespace egoistmedia\yii2\google\apiclient\components;
 
 use Google_Client;
 use Yii;
@@ -10,7 +10,7 @@ use yii\base\Exception;
 /**
  * Class GoogleApiClient
  *
- * @package idk\yii2\google\apiclient
+ * @package egoist-media\yii2\google\apiclient
  */
 class GoogleApiClient extends Component
 {
